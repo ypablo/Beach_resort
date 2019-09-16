@@ -1,10 +1,9 @@
 import React from 'react'
 
-export default function Home() {
+export default function Rooms() {
     return (
         <div>
-            <h1>Hello from Home page</h1>
+            <h1>Hello from Rooms page</h1>
         </div>
     )
 }
-
